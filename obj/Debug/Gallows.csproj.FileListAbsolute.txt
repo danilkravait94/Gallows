@@ -1,0 +1,12 @@
+C:\Users\Олег\source\repos\Gallows\bin\Debug\Gallows.exe.config
+C:\Users\Олег\source\repos\Gallows\bin\Debug\Gallows.exe
+C:\Users\Олег\source\repos\Gallows\bin\Debug\Gallows.pdb
+C:\Users\Олег\source\repos\Gallows\obj\Debug\Gallows.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Gallows\obj\Debug\Gallows.exe
+C:\Users\Олег\source\repos\Gallows\obj\Debug\Gallows.pdb
+C:\Users\Олег\source\repos\Cool\Gallows\bin\Debug\Gallows.exe.config
+C:\Users\Олег\source\repos\Cool\Gallows\bin\Debug\Gallows.exe
+C:\Users\Олег\source\repos\Cool\Gallows\bin\Debug\Gallows.pdb
+C:\Users\Олег\source\repos\Cool\Gallows\obj\Debug\Gallows.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Cool\Gallows\obj\Debug\Gallows.exe
+C:\Users\Олег\source\repos\Cool\Gallows\obj\Debug\Gallows.pdb
